@@ -1,5 +1,5 @@
 FROM nginx:latest
 
-MAINTAINER YASIN BUDI PRASETYA<yasinbudi123@gmail.com>
+MAINTAINER yasinbudi12@gmail.com
 
 COPY ./landing-page-master/ /usr/share/nginx/html/
